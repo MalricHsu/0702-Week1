@@ -246,6 +246,10 @@ img {
   padding: 8px 0px;
 }
 
+.pt-151 {
+  padding-top: 151px;
+}
+
 .primary-color {
   color: #57a203;
 }
@@ -290,9 +294,6 @@ img {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
   align-items: center;
 }
 
@@ -329,9 +330,6 @@ img {
 }
 
 .brand-footer {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
   align-items: center;
   background-color: #f8f9fa;
   padding: 64px 312px;
