@@ -199,6 +199,11 @@ img {
   text-align: center;
 }
 
+.list-style {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
 .mt-48 {
   margin-top: 48px;
 }
@@ -263,11 +268,6 @@ img {
   color: #212529;
 }
 
-.list-style {
-  list-style-type: disc;
-  padding-left: 20px;
-}
-
 .border-left {
   border-left: 3px solid #dee2e6;
 }
@@ -278,11 +278,6 @@ img {
 
 .text-decoration-underline {
   text-decoration: underline;
-}
-
-.icon {
-  width: 20px;
-  height: 20px;
 }
 
 .fw-500 {

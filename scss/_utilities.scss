@@ -29,7 +29,6 @@
   letter-spacing: 1px;
   font-family: "Noto Sans TC", serif;
 }
-
 .md {
   font-size: 16px;
   font-weight: 400;
@@ -45,20 +44,23 @@
   font-family: "Noto Sans TC", serif;
   color: #6c757d;
 }
+//文字相關
 
 .text-center {
   text-align: center;
 }
+.list-style {
+  list-style-type: disc;
+  padding-left: 20px;
+}
 
 //margin
-
 .mt-48 {
   margin-top: 48px;
 }
 .mt-64 {
   margin-top: 64px;
 }
-
 .mb-4 {
   margin-bottom: 4px;
 }
@@ -106,15 +108,11 @@
   color: #212529;
 }
 
-.list-style {
-  list-style-type: disc;
-  padding-left: 20px;
-}
-
 .border-left {
   border-left: 3px solid #dee2e6;
 }
 
+//樣式
 .d-block {
   display: block;
 }
