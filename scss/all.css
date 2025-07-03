@@ -324,6 +324,10 @@ img {
 .brand-introduce .introduce .brand-story {
   border-bottom: 1px solid #dee2e6;
 }
+.brand-introduce .introduce .brand-story a:hover {
+  background: #57a203;
+  color: #fff;
+}
 
 .brand-footer {
   align-items: center;
